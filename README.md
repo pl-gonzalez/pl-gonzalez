@@ -1,10 +1,15 @@
 # 👩🏻‍💻 Larissa Kich
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend `**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Pablo Leon Gonzalez, tenho 27 anos, e busco minha primeira oportunidade como Desenvolvedor Backend Python.
+Formado no ensino médio integrado ao técnico, pela ETEC, no curso de automação industrial. Atualmente, estou cursando Tecnólogo em Inteligencia Artificial na FIAP.
 
-<p align="left">
+Comecei a programar mesmo quando iniciei meus estudos na ETEC, onde desenvolviamos robos bípedes, de limpeza. Ao sair da ETEC, tive a oportunidade de desenvolver um cubômetro com sistema embarcado e comunicação serial para o computador local da bancada da operação. Por alguns anos, trabalhei como técnico de automação industrial, o que me permitiu fazer a integração e configuração entre dispositivos em campo e seus sistemas de controle. 
+
+Graças a isso, tive a oportunidade de participar do desenvolvimento de modulos IoT para monitorar caminhões, buscando reduzir imprevistos e gastos com manutenção e combustivel. O sistema conta com um monitor de nivel de etanol na cabine, monitor de OBD para alertas do computador de bordo, sensor de pressão dos pneus e lâmpadas. Todos os dados são enviados para o servidor da empresa via MQTT.
+
+<!-- <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -173,4 +178,4 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
