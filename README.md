@@ -1,12 +1,10 @@
 # 👩🏻‍💻 Pablo Gonzalez
 
-**`Desenvolvedor Backend `**
+**`Estudante de IA - FIAP `**
 
-Me chamo Pablo Leon Gonzalez, tenho 27 anos, e quero iniciar minha carreira como Desenvolvedor Backend Python.
+Atualmente curso Tecnólogo em Inteligência Artificial na FIAP, onde estou aprofundando meus conhecimentos em machine learning, processamento de dados e sistemas inteligentes.
 
-Formado no ensino médio integrado ao técnico, pela ETEC, no curso de automação industrial. Atualmente, estou cursando Tecnólogo em Inteligencia Artificial na FIAP.
+Venho desenvolvendo minhas habilidades técnicas por meio de projetos acadêmicos e aplicados, como o FarmTech e o Totem FlexMedia. Esses projetos me permitem trabalhar conceitos de IA, análise de dados e modelagem de soluções voltadas para problemas inspirados em cenários reais.
 
-Agora estou trabalhando nos projetos propostos pela faculdade, como o FarmTech e Totem FlexMedia.
-
-E-mail: pleon256@gmail.com
+Meu foco é construir soluções inteligentes que integrem dados, automação e modelos de tomada de decisão. Estou em constante evolução no estudo de machine learning, agentes de IA, processamento de dados e aplicações práticas de Inteligência Artificial.
 
